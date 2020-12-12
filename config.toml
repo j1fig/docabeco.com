@@ -1,0 +1,4 @@
+baseURL = "https://carlos.docabeco.com/"
+languageCode = "en-us"
+title = "Carlos do Cabeço"
+theme = "harbor"
